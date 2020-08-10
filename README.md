@@ -2,7 +2,7 @@
 By Toshe Ayo-Ariyo, Joshua Liu, Sanaz Shahbazian, Danielle Ho, and Ayman Sulaiman
 
 ## Project Proposal
-Based upon the data compiled by John Hopkins University, we want to explore ''' Insert reasons here'''
+Based upon the data compiled by John Hopkins University, we want to explore the time line adn the data of Covid 19.
 This will be done by extracting the CSV data and migrating it to a PostgreSQL Database.  
 
 ## Project Description
